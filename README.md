@@ -1,6 +1,6 @@
 # 🎓 Jaya Jaya Institut - Student Performance Prediction
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://[NAMA-REPO-ANDA].streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://jaya-jaya-student-prediction.streamlit.app/)
 
 ## 📌 Deskripsi Proyek
 Aplikasi berbasis web interaktif ini dikembangkan menggunakan **Streamlit** dan **Machine Learning (Random Forest)** untuk memprediksi performa dan status akhir mahasiswa di Jaya Jaya Institut. 
@@ -39,8 +39,8 @@ Jika Anda ingin menjalankan aplikasi ini di komputer/laptop Anda sendiri, ikuti 
 1.  **Clone repositori ini:**
 
     ```bash
-    git clone [https://github.com/](https://github.com/)[USERNAME-GITHUB-ANDA]/[NAMA-REPO-ANDA].git
-    cd [NAMA-REPO-ANDA]
+    git clone https://github.com/azarrstore/jaya-jaya-student-prediction.git
+    cd jaya-jaya-student-prediction
     ```
 
 2.  **Buat Virtual Environment (Opsional tapi disarankan):**
